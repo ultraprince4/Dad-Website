@@ -1,0 +1,203 @@
+
+ body
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+
+#devDiv
+{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#devT
+{
+    position: relative;
+    left: 82px;
+    top: -38px;
+    color: white;
+    font-size: 15px;
+}
+#devT:hover
+{
+    color: aqua;
+}
+p
+{
+    font-size: 20px;
+}
+
+.arabic
+{
+    position: relative;
+    left: 190px;
+    top: 10px;
+    font-size: 142%;
+}
+iframe
+{
+    height: 733px;
+    width: 500px;
+    position: absolute;
+    left: 77%;
+    top: 3%;
+}
+
+#iframePoems
+{
+    position: relative;
+    left: 225px;
+    top: -360px;
+}
+
+#aboutHR
+{
+    position: fixed;
+    width: 15%;
+}
+
+#poemHR
+{
+    position: relative;
+    left: -13px;
+    width: 180%;
+}
+#aboutIframe
+{
+    position: absolute;
+    left: 587px;
+    top: 191px;
+    height: 733px;
+    width: 1150px;
+    border: 0;
+    border-radius: 10px;
+}
+ a 
+{
+    float: left;
+    width: 8%;
+    text-decoration: none;
+    display:block;
+
+}
+ .mainLinks
+{
+    padding-left: 6%;
+    padding-right: 18%;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+}
+
+#youtube
+{
+    position: absolute;
+    right: 22%;
+    top: 1.5%;
+    border: 20px;
+    height: 40px;
+    width: 40px;
+    padding-bottom: 3px;
+
+}
+
+#youtube:hover
+{
+    border-bottom: red solid;
+}
+#tiktok
+{   
+    position: absolute;
+    right: 19.5%;
+    top: 2%;
+    height: 30px;
+    width: 30px;
+    padding-bottom: 8.8px;
+
+}
+#tiktok:hover
+{
+    border-bottom:  red solid;
+}
+
+ a:hover
+{
+    color: red;
+}
+video
+{
+    
+    height: 400px;
+    width: 450px;
+}
+
+ img
+{
+    height: 275px;
+    object-fit: scale-down;
+}
+
+.AhmedsPhotos img
+{
+    border-radius: 7px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;      
+}
+ .frogImg
+{
+    position:absolute; top: 14% ;
+    padding-left: 5%;
+    width: 300px;
+}
+
+.frogImg [title]
+{
+    border-radius: 20px;
+}
+
+.frogImg h3
+{
+    padding-left: 1%;
+}
+
+ .aboutText
+{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+ .youtubeLink
+{  
+    position:absolute; top: 10%;
+    padding-left: 65%;
+    padding-right: 1%;
+    padding-top: 1%;
+}
+
+ .youtubeLV
+{
+    padding-left: 3%;
+}
+
+ .pageLinks
+{
+    color: white;
+    border-right: solid; 
+    border-color: rgb(116, 116, 116);
+    padding-right: 0%;
+    padding-left: 3%;
+}
+
+ #pageLAbout
+{
+    padding-left: 4%;
+}
+
+h1,h2,h3,h4
+{
+    color: rgb(228, 228, 228);
+}
